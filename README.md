@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I'm a web developer too😊
 - 🌐 My Website : [farehahassan.com](https://farehahassan.com)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=farehahassan&theme=orange-black)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farehahassan&theme=radical&hide_border=true&border_radius=8.4)](https://git.io/streak-stats)
