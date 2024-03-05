@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My GitHub Profile
+
+## Progress
+
+![Progress](https://img.shields.io/static/v1?label=Progress&message=50%&color=blue&style=for-the-badge)
+
+## Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=farehahassan&theme=blue-green)
