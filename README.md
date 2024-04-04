@@ -34,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [https://farehahassan.com/](https://farehahassan.com/) and here)
 
-- 📫 How to reach me: You can write me on [linkedin]([https://www.linkedin.com/in/fareha-hassan-90a7b7221/]), or by [mail](mailto:Contact@farehahassan.com)
+- 📫 How to reach me: You can write me on [linkedin]([https://www.linkedin.com/in/fareha-hassan-90a7b7221/]), or by [Contact@farehahassan.com](mailto:Contact@farehahassan.com)
 
 
 
