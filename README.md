@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer · 4+ Years · 15+ Apps Shipped · Founder @ SolForge</h3>
 
 <p align="center">
-  <a href="https://farehahassan.com"><img src="https://img.shields.io/badge/Portfolio-farehahassan.com-48c030?style=for-the-badge" /></a>
+  <a href="https://farehadev.com"><img src="https://img.shields.io/badge/Portfolio-farehadev.com-48c030?style=for-the-badge" /></a>
   <a href="https://solforge.co"><img src="https://img.shields.io/badge/Agency-SolForge-0A66C2?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01ae7e52eec7120eec"><img src="https://img.shields.io/badge/Upwork-Rising_Talent-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
@@ -23,6 +23,20 @@
 - 🌱 Currently exploring **Next.js, Supabase, and AI-integrated app architectures**
 - 📈 100% Job Success Score, Rising Talent on Upwork
 - 📫 Reach me at **hfariha104@gmail.com**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apps_Shipped-15%2B-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Upwork_JSS-100%25-blueviolet?style=flat-square" />
+</p>
+
+---
+
+### 🏗️ Currently Building
+
+- **SolForge** — growing an agency + intern team building real client and internal products (marketplaces, fitness platforms, SaaS)
+- **Build in public** — documenting the process on Instagram [@unfilteredfarehadev](https://www.instagram.com/unfilteredfarehadev/)
+- Open to Flutter contract work, AI-integrated apps, and collabs — DM or email
 
 ---
 
@@ -79,6 +93,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farehahassan&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farehahassan&theme=radical&hide_border=true&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<!-- Contribution snake — requires a one-time GitHub Actions setup (see note below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farehahassan/farehahassan/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+> Add your top repos here so they're front and center (replace with real repo links):
+
+- **[Project Name](#)** — one-line description of what it does and the stack used
+- **[Project Name](#)** — one-line description of what it does and the stack used
+- **[Project Name](#)** — one-line description of what it does and the stack used
+
 ---
 
 ### 🤝 Let's Connect
@@ -87,7 +120,18 @@
   <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://www.instagram.com/farehadev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="30" /></a>
   <a href="mailto:hfariha104@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
-  <a href="https://farehahassan.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="30" /></a>
+  <a href="https://farehadev.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="30" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/farehahassan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="buy me a coffee" /></a>
 </p>
 
 <p align="center"><i>Open to Flutter contract work, AI-integrated app projects, and collaborations at SolForge.</i></p>
+
+<!--
+Setup notes:
+1. Snake animation: add https://github.com/Platane/snk as a GitHub Action in this repo (workflow generates the SVG referenced above).
+2. Stats/trophies/streak widgets auto-update — no setup needed, just confirm "farehahassan" is your live GitHub username.
+3. Replace the Pinned Projects placeholders with your real repo links once ready.
+-->
