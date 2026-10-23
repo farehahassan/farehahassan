@@ -1,30 +1,22 @@
-<h1 align="center">Hi, I'm Fareha Hassan 👋</h1>
-<h3 align="center">Flutter Developer · 4+ Years · 15+ Apps Shipped · Founder @ SolForge</h3>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <a href="https://farehadev.com"><img src="https://img.shields.io/badge/Portfolio-farehadev.com-48c030?style=for-the-badge" /></a>
-  <a href="https://solforge.co"><img src="https://img.shields.io/badge/Agency-SolForge-0A66C2?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~01ae7e52eec7120eec"><img src="https://img.shields.io/badge/Upwork-Rising_Talent-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0a08&height=180&section=header&text=FAREHA%20HASSAN&fontSize=50&fontColor=ffffff&fontFamily=Consolas&stroke=48c030&strokeWidth=2&desc=Flutter%20Developer%20%7C%20Founder%20%40%20SolForge&descSize=18&descAlignY=68" width="100%" alt="Header Banner" />
 </p>
 
+<!-- QUICK NAVIGATION & SOCIAL TABLE -->
+<div align="center">
+
+| 🌐 Website | 🏢 Agency | 💼 LinkedIn | 🟢 Upwork | 📸 Instagram |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://farehadev.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/googlechrome.svg" width="32" /></a> | <a href="https://solforge.co"><img src="https://img.shields.io/badge/SolForge-0A66C2?style=for-the-badge&logo=shield" height="30" /></a> | <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a> | <a href="https://www.upwork.com/freelancers/~01ae7e52eec7120eec"><img src="https://simpleicons.org/icons/upwork.svg" width="30" /></a> | <a href="https://www.instagram.com/unfilteredfarehadev/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" /></a> |
+
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS & METRICS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farehahassan&label=Profile%20views&color=48c030&style=flat" height="25" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/farehahassan?label=Followers&style=social" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 💻 Full-stack developer specializing in **Flutter / Dart**, shipping production apps across healthcare, fitness, trading, eCommerce, ride-booking, and food delivery
-- 🏢 Founder of **[SolForge](https://solforge.co)** — a software agency I run alongside client work, with an active team of interns across Flutter, web, UI/UX, and PM
-- 🎓 Completing my Software Engineering degree at University of Sindh (GPA 3.52)
-- 🌱 Currently exploring **Next.js, Supabase, and AI-integrated app architectures**
-- 📈 100% Job Success Score, Rising Talent on Upwork
-- 📫 Reach me at **hfariha104@gmail.com**
-
-<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=farehahassan&label=Profile%20Views&color=48c030&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Experience-4%2B_Years-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Apps_Shipped-15%2B-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Upwork_JSS-100%25-blueviolet?style=flat-square" />
@@ -32,106 +24,9 @@
 
 ---
 
-### 🏗️ Currently Building
+### 💻 WHO I AM & WHAT I DO
 
-- **SolForge** — growing an agency + intern team building real client and internal products (marketplaces, fitness platforms, SaaS)
-- **Build in public** — documenting the process on Instagram [@unfilteredfarehadev](https://www.instagram.com/unfilteredfarehadev/)
-- Open to Flutter contract work, AI-integrated apps, and collabs — DM or email
-
----
-
-### 📱 Featured Apps
-
-| App | Category | Links |
-|---|---|---|
-| **Hip Physio** | Healthcare — phase-based rehab programs, video-guided exercises, subscriptions | [iOS](https://apps.apple.com/us/app/the-hip-physio/id6752355900) · [Android](https://play.google.com/store/apps/details?id=com.thehipphysio.app) |
-| **OnlyStrength** | Fitness coaching | [iOS](https://apps.apple.com/us/app/onlystrength/id6473848495) · [Android](https://play.google.com/store/apps/details?id=com.challengerstrength.app) |
-| **Vipera Tech** | Crypto marketplace | [iOS](https://apps.apple.com/ca/app/vipera-tech/id6749548305) · [Android](https://play.google.com/store/apps/details?id=com.nexifyx.vipera) |
-| **My Very Many Hats** | Productivity | [iOS](https://apps.apple.com/us/app/my-very-many-hats/id6753876382) |
-
-*Plus 10+ additional shipped apps across trading, ride-booking, and eCommerce verticals.*
-
----
-
-### 🛠️ Tech Stack
-
-**Mobile & Frontend**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</p>
-
-**Backend & Data**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-</p>
-
-**State Management:** GetX · Provider · BLoC
-**Realtime & Integrations:** Agora (video/voice) · Pusher (chat/notifications) · OneSignal (push) · REST APIs · Supabase
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farehahassan&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farehahassan&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farehahassan&theme=radical&hide_border=true&border_radius=8.4" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farehahassan&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farehahassan&theme=radical&hide_border=true&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
-<!-- Contribution snake — requires a one-time GitHub Actions setup (see note below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farehahassan/farehahassan/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-> Add your top repos here so they're front and center (replace with real repo links):
-
-- **[Project Name](#)** — one-line description of what it does and the stack used
-- **[Project Name](#)** — one-line description of what it does and the stack used
-- **[Project Name](#)** — one-line description of what it does and the stack used
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/farehadev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="30" /></a>
-  <a href="mailto:hfariha104@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
-  <a href="https://farehadev.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="30" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/farehahassan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="buy me a coffee" /></a>
-</p>
-
-<p align="center"><i>Open to Flutter contract work, AI-integrated app projects, and collaborations at SolForge.</i></p>
-
-<!--
-Setup notes:
-1. Snake animation: add https://github.com/Platane/snk as a GitHub Action in this repo (workflow generates the SVG referenced above).
-2. Stats/trophies/streak widgets auto-update — no setup needed, just confirm "farehahassan" is your live GitHub username.
-3. Replace the Pinned Projects placeholders with your real repo links once ready.
--->
+```text
+> Full-Stack Developer specializing in Flutter, Dart, & Node.js architectures.
+> Shipped 15+ production mobile apps across Healthcare, Fitness, Crypto, & SaaS.
+> Founder @ SolForge — leading a specialized team delivering cross-platform solutions.
