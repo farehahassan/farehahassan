@@ -1,179 +1,131 @@
-
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d12&height=8"/>
-
-# FAREHA HASSAN
-
-### FLUTTER ENGINEER / MOBILE APP DEVELOPER
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=3000&pause=1000&color=9ACD75&center=true&vCenter=true&width=600&lines=Building+products%2C+not+just+screens.;Flutter+%2F+Dart+%2F+Backend+Systems;15%2B+apps+shipped+to+real+users.;Code.+Ship.+Learn.+Repeat." alt="Typing SVG" />
-
-[Portfolio](https://farehadev.com) · [LinkedIn](https://www.linkedin.com/in/fareha-hassan-90a7b7221/) · [GitHub](https://github.com/farehahassan) · [Instagram](https://www.instagram.com/unfilteredfarehadev/)
-
-<img src="https://komarev.com/ghpvc/?username=farehahassan&label=PROFILE+VIEWS&color=9acd75&style=flat-square" alt="Profile views"/>
-
+  <img src="assets/profile-banner.png" width="100%" alt="Fareha Hassan — Flutter Engineer / Full-Stack Developer, pixel-art night city banner" />
+  <br />
+  <a href="https://farehadev.com"><img src="https://img.shields.io/badge/PORTFOLIO-farehadev.com-35E6B3?style=for-the-badge&labelColor=111322" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/"><img src="https://img.shields.io/badge/LINKEDIN-connect-8B5CF6?style=for-the-badge&labelColor=111322&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/farehahassan"><img src="https://img.shields.io/badge/GITHUB-follow-60A5FA?style=for-the-badge&labelColor=111322&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/unfilteredfarehadev/"><img src="https://img.shields.io/badge/INSTAGRAM-follow-F472B6?style=for-the-badge&labelColor=111322&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:hfariha104@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say_hello-FBBF24?style=for-the-badge&labelColor=111322&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=farehahassan&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/farehahassan?label=FOLLOWERS&style=flat-square&color=35E6B3&labelColor=111322" alt="GitHub followers" />
 </div>
 
 ---
 
-## WHO I AM
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-> Fareha Hassan
-> Flutter-focused full-stack developer
-> Based in Pakistan
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-8B5CF6?style=flat-square" />
 
-I build mobile applications that solve real problems.
-From translating Figma designs into polished Flutter
-interfaces to integrating APIs, payments, authentication,
-and realtime features — I work across the product lifecycle.
+### Hey, I'm Fareha 👾
 
-Currently working as a Senior Mobile App Developer
-and building products through SolForge.
-```
+Flutter-focused full-stack developer with **4+ years of experience** building and shipping mobile products. I work across the product lifecycle — from turning Figma designs into polished Flutter interfaces to integrating APIs, payments, authentication, and realtime features.
 
-## WHAT I DO
+- 📍 Pakistan · Remote
+- 💼 Senior Mobile App Developer at Samarix
+- 🧩 Founder of [SolForge](https://solforge.co)
+- 🎓 BS Software Engineering — completed
+- 🌱 Exploring Next.js, Supabase, and AI-integrated apps
 
-- **Mobile development** — Flutter, Dart, responsive UI, custom widgets
-- **State management** — Provider, BLoC, GetX
-- **Backend & APIs** — Node.js, Express, Supabase, REST APIs
-- **Integrations** — Firebase, Stripe, in-app purchases, maps, chat, notifications
-- **Product delivery** — App Store and Google Play releases, debugging, maintenance
-- **AI integrations** — Gemini and Claude APIs, AI-powered application features
+**BUILD · SHIP · LEARN · REPEAT**
 
-## THE JOURNEY SO FAR
+</td>
+<td width="50%" valign="top">
 
-| Metric | Details |
-|:---|:---|
-| Experience | 4+ years |
-| Applications | 15+ shipped |
-| Main stack | Flutter + Dart |
-| Backend | Node.js + Supabase |
-| Education | BS Software Engineering — completed |
-| Agency | [SolForge](https://solforge.co) |
+## <img src="https://img.shields.io/badge/02-NOW_BUILDING-35E6B3?style=flat-square" />
 
-## SELECTED WORK
+### Current projects
 
-### HIP PHYSIO
-Healthcare · Flutter · Rehabilitation
+**◈ AI Study Companion**  
+Flutter · Node.js · Gemini API
 
-Phase-based rehabilitation programs, video-guided exercises, and subscription features.
+**◈ Community Help Map**  
+Flutter · PostgreSQL/PostGIS · Maps
 
-[App Store](https://apps.apple.com/us/app/the-hip-physio/id6752355900) · [Google Play](https://play.google.com/store/apps/details?id=com.thehipphysio.app)
+**◈ SolForge**  
+Client products, mobile apps, web platforms, and experiments.
 
-### ONLYSTRENGTH
-Fitness · Mobile App
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A fitness coaching application built to support training and coaching workflows.
+## <img src="https://img.shields.io/badge/03-TECH_STACK-60A5FA?style=flat-square" />
 
-[App Store](https://apps.apple.com/us/app/onlystrength/id6473848495) · [Google Play](https://play.google.com/store/apps/details?id=com.challengerstrength.app)
+**Mobile & UI**
 
-### VIPERA TECH
-Fintech · Crypto Marketplace
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,js&theme=dark" alt="Flutter, Dart, Figma, HTML, CSS, JavaScript" />
 
-A crypto marketplace application.
+**Backend & data**
 
-[App Store](https://apps.apple.com/ca/app/vipera-tech/id6749548305) · [Google Play](https://play.google.com/store/apps/details?id=com.nexifyx.vipera)
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mongodb,postgres,mysql&theme=dark" alt="Node.js, Express, Supabase, Firebase, MongoDB, PostgreSQL, MySQL" />
 
-### MY VERY MANY HATS
-Productivity · Mobile App
+**Tools**
 
-A productivity application designed to help users manage different aspects of their lives.
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,docker&theme=dark" alt="Git, GitHub, Postman, VS Code, Android Studio, Docker" />
 
-[App Store](https://apps.apple.com/us/app/my-very-many-hats/id6753876382)
+**State management:** Provider · BLoC · GetX  
+**Integrations:** REST/Dio · Stripe · IAP · Firebase · Agora · Pusher · OneSignal · Maps · AI APIs
 
----
+</td>
+<td width="50%" valign="top">
 
-## SKILL SET
+## <img src="https://img.shields.io/badge/04-FEATURED_APPS-F472B6?style=flat-square" />
+
+**Hip Physio** · Healthcare  
+Phase-based rehabilitation, video-guided exercises, and subscriptions.  
+[iOS](https://apps.apple.com/us/app/the-hip-physio/id6752355900) · [Android](https://play.google.com/store/apps/details?id=com.thehipphysio.app)
+
+**OnlyStrength** · Fitness coaching  
+[iOS](https://apps.apple.com/us/app/onlystrength/id6473848495) · [Android](https://play.google.com/store/apps/details?id=com.challengerstrength.app)
+
+**Vipera Tech** · Crypto marketplace  
+[iOS](https://apps.apple.com/ca/app/vipera-tech/id6749548305) · [Android](https://play.google.com/store/apps/details?id=com.nexifyx.vipera)
+
+**My Very Many Hats** · Productivity  
+[iOS](https://apps.apple.com/us/app/my-very-many-hats/id6753876382)
+
+<sub>Plus 10+ additional shipped apps across trading, ride-booking, eCommerce, and other categories.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+## <img src="https://img.shields.io/badge/05-GITHUB_ACTIVITY-9ACD75?style=flat-square" />
 
 <div align="center">
-
-### MOBILE & FRONTEND
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nextjs&theme=dark" />
-
-### BACKEND & DATABASES
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mongodb,postgres,mysql&theme=dark" />
-
-### TOOLS & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio,docker&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=farehahassan&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=35E6B3&text_color=D8DEFF" width="100%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farehahassan&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=D8DEFF" width="100%" alt="Top languages" />
 </div>
 
-**State management:** Provider · BLoC · GetX
+</td>
+<td width="50%" valign="top">
 
-**Networking:** REST APIs · Dio · JSON serialization
+## <img src="https://img.shields.io/badge/06-BEYOND_CODE-FBBF24?style=flat-square" />
 
-**Integrations:** Firebase Auth · Push Notifications · Stripe · RevenueCat · Agora · Pusher · Maps
+- 🛠️ Building SolForge and helping turn ideas into products
+- 🌐 Open-source projects and developer community learning
+- 🤖 Exploring AI tools and new app architectures
+- 📱 Sharing my build-in-public journey on [Instagram](https://www.instagram.com/unfilteredfarehadev/)
 
-**Other:** WordPress · Elementor · AI API integrations · App Store / Play Store releases
+> “Small steps. Useful products. Better every build.”
 
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farehahassan&show_icons=true&theme=github_dark&hide_border=true&title_color=9acd75&icon_color=9acd75&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farehahassan&layout=compact&theme=github_dark&hide_border=true&title_color=9acd75&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=farehahassan&bg_color=0d1117&color=9acd75&line=9acd75&point=c9d1d9&area=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farehahassan&theme=github-dark-blue&hide_border=true&ring=9acd75&fire=9acd75&currStreakLabel=9acd75" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## BEYOND CODE
-
-I enjoy building things, learning new technologies, exploring AI,
-and sharing the messy, interesting process of software development.
-
-I'm also building **SolForge**, a software agency focused on turning
-ideas into real digital products.
-
-Outside the code editor, I share my developer journey and experiments
-on Instagram.
-
----
-
-## FIND ME AROUND THE INTERNET
-
 <div align="center">
-
-<a href="https://farehadev.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9acd75" />
-</a>
-<a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/">
-<img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=9acd75" />
-</a>
-<a href="https://www.instagram.com/unfilteredfarehadev/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=9acd75" />
-</a>
-<a href="mailto:hfariha104@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=9acd75" />
-</a>
-<a href="https://solforge.co">
-<img src="https://img.shields.io/badge/SOLFORGE-0d1117?style=for-the-badge&logo=github&logoColor=9acd75" />
-</a>
-
-</div>
-
-<div align="center">
-
-```text
-BUILD SOMETHING USEFUL.
-MAKE IT WORK.
-MAKE IT BETTER.
-```
-
-<sub>Designed in dark mode. Powered by curiosity and too many open tabs.</sub>
-
+  <h3>╭── LET'S BUILD SOMETHING USEFUL ──╮</h3>
+  <a href="https://farehadev.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/fareha-hassan-90a7b7221/">LinkedIn</a> ·
+  <a href="https://solforge.co">SolForge</a> ·
+  <a href="mailto:hfariha104@gmail.com">Email me</a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%" alt="purple pixel line" />
+  <sub><code>01000010 01010101 01001001 01001100 01000100</code> · Made with Flutter energy and pixel dreams.</sub>
 </div>
