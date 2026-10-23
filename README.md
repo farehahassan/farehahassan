@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="./stats.svg" width="100%" alt="Blueprint Stats" />
+  <img src="./gh-stats.svg" width="100%" alt="Blueprint Stats" />
 </p>
 
 <p align="center">
   <img src="./footer.svg" width="100%" alt="Blueprint Footer" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./header-2.svg" width="100%" alt="Blueprint Footer Secondary" />
-</p>
+</p> -->
